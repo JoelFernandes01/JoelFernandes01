@@ -14,7 +14,11 @@
   <img align="center" alt="Joel-RedHat" height="30" width="40" src=" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg">
     
 </div>
-<br>
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <div> 
   <a href="https://www.youtube.com/channel/UCILJuhQhCoc_AkltHoJTx4g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

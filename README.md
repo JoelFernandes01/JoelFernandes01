@@ -11,8 +11,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Joel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joel-Ansible" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg">
-  <img align="center" alt="Joel-RedHat" height="30" width="40" src=" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg">
-    
+     
 </div>
 <div align="center">
   

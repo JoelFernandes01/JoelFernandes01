@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou Joel Fernandes, profissional em TI !
 
 - 🔭 Trabalho com Zabbix e Grafana
 - 🌱 Estou estudando Python, Shelscript, Powershell, Ansible .
